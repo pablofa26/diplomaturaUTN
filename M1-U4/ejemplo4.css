@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    }
+
+h2{
+    background-color: yellow;
+    color: red;
+}
+p{
+    font-size: 22px;
+    color: green;
+}
+
+.destacados {
+    color: blue;
+    font-style: italic;
+}
+
+#Bienvenidos{
+    width: 300px;
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+    border: solid; color: red;
+    margin-left: 500px;
+}
+#Bienvenidos:hover{
+    background-color: orange;
+}
