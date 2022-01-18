@@ -1,0 +1,42 @@
+/*font-family: 'Cairo', sans-serif;
+font-family: 'Rubik', sans-serif;*/ 
+
+h1{
+    color: royalblue;
+    font-family: 'Cairo', sans-serif;
+
+}
+h2{
+    background-color: greenyellow;
+    color: red;
+}
+
+.destacados{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Bienvenidos1{
+    width: 300px;
+    background-color: rgb(184, 115, 248);
+    text-align: center;
+    padding: 20px;
+    border: solid; color: rgb(168, 7, 7);
+    margin-left: 500px;
+}
+.icono{
+    font-size: 200px;
+    color: blue;
+}
+
+.pelis{
+    background-color:darkorange;
+    width: 300px;
+    height: 100px;
+    border-radius: 0 10px 10px 10px;
+    text-align-last: center;
+    font-size: 15px;
+}
+
+p{
+    font-family: 'Rubik', sans-serif
+}
