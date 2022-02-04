@@ -1,0 +1,48 @@
+.contenedor{
+    border:2px solid black;
+    background-color: white;
+    /*position: relative;*/
+    margin: auto;
+    padding: auto;
+    width: 90%;
+    height: 200px;
+    display: inline-flex;
+    /*flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;*/
+    justify-content: space-between;
+    }
+    
+.cuadradorojo{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    }            
+
+
+.cuadradoazul{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    font-size: 30px;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    
+    }
+            
+.cuadradoverde{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    font-size: 30px;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    }
